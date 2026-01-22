@@ -324,15 +324,16 @@ requirements:
 - 完整的故障排除指南
 
 #### 6.2 部署方案
-
 **本地部署**：
 1. **下载技能文件**：从 GitHub 仓库或 Trae 平台获取
+   - **GitHub 仓库**：[https://github.com/qingxiahotmail/github-gui-launcher-skill](https://github.com/qingxiahotmail/github-gui-launcher-skill)
 2. **解压到合适位置**：如 `e:\skillstest\skills\github_gui_launcher`
 3. **配置客户端路径**：编辑 `config.json` 文件，设置客户端路径
 4. **添加到 Trae**：按照 Trae 设置指南添加技能
 
 **分发方案**：
 1. **GitHub 仓库**：将技能文件上传到 GitHub 仓库，便于用户下载
+   - **目标仓库**：[https://github.com/qingxiahotmail/github-gui-launcher-skill](https://github.com/qingxiahotmail/github-gui-launcher-skill)
 2. **Trae 平台**：在 Trae 平台上发布技能，便于用户直接获取
 3. **ZIP 包**：将技能文件压缩为 ZIP 包，便于直接分发
 
